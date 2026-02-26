@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.idea
+.vscode
+coverage
+logs
+firebase-notif
+*.log
+dist
+.tmp

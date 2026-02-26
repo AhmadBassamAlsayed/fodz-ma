@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.delverme",
+      "sha256_cert_fingerprints": [
+        "71:9A:DF:35:48:C3:5D:00:0D:56:94:4E:72:FE:FF:31:5F:AD:42:32:E4:D7:15:F7:19:53:CC:C0:20:9F:3E:0F"
+      ]
+    }
+  }
+]
